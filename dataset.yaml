@@ -1,0 +1,6 @@
+path: fsoco-dataset-yolo
+train: train/images
+val: val/images
+test: test/images
+nc: 3
+names: ["blue_cone", "yellow_cone", "orange_cone"]
