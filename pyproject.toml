@@ -1,9 +1,10 @@
 [project]
-name = "yolo"
+name = "fsoco_yolo11"
 version = "0.1.0"
-description = "Add your description here"
+description = "YOLO11 training on the FSOCO dataset"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "ipykernel>=7.1.0",
     "ultralytics>=8.3.228",
 ]

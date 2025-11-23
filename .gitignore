@@ -1,11 +1,10 @@
-# Python-generated files
+# Python-generated files and data directories
 __pycache__/
 *.py[oc]
 build/
 dist/
 wheels/
-fsoco-dataset/
-fsoco-dataset-yolo/
+fsoco-dataset*/
 TraCon_dataset/
 runs/
 *.pt
