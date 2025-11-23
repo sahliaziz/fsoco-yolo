@@ -8,6 +8,7 @@ fsoco-dataset/
 fsoco-dataset-yolo/
 TraCon_dataset/
 runs/
+*.pt
 .ipynb_checkpoints/
 *.egg-info
 
